@@ -5,7 +5,7 @@
 <h3 align="center">👩‍🔧 Tech Stack 👩‍🔧</h3>
 </br>
 <p align="center">
-<img src="![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)"/></a> &nbsp
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&fontColor=ffffff"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&fontColor=ffffff"/></a> &nbsp
 
