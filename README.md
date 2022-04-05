@@ -1,31 +1,33 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=ffb3c6&height=130&section=header&text=💃%20I'm%20HyeonJeong!%20🕺&fontSize=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=ffb3c6&height=130&section=header&text=💃%20I'm%20Hannah!%20🕺&fontSize=70&fontColor=ffffff)
   
 </br>
 
 <h3 align="center">👩‍🔧 Tech Stack 👩‍🔧</h3>
 </br>
 <p align="center">
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&fontColor=ffffff"/></a> &nbsp
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&fontColor=ffffff"/></a> &nbsp
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> &nbsp
 
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&fontColor=ffffff"/></a> &nbsp
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white&fontColor=ffffff"/></a> &nbsp
-<a href="https://github.com/yun2021"><img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&fontColor=ffffff"/></a> &nbsp
-<a href="https://github.com/yun2021"><img src="https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled%20components&logoColor=white&fontColor=ffffff"/></a> &nbsp
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/></a> &nbsp
+<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a> &nbsp
 
-<!-- 
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
 
 </br></br>
 
 <h3 align="center">🐰 About me 🐰</h3>
 </br>
 <p align="center">
-<a href="https://velog.io/@yun2021" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> &nbsp
-<a href="https://github.com/yun2021" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://hannah1009.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> &nbsp
+<a href="https://pattern-beluga-3d8.notion.site/1dc1ea9c28ef40519f908c15656882de" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 </br></br>
 
