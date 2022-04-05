@@ -26,7 +26,7 @@
 </br>
 <p align="center">
 <a href="https://hannah1009.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> &nbsp
-<a href="https://pattern-beluga-3d8.notion.site/1dc1ea9c28ef40519f908c15656882de" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://pattern-beluga-3d8.notion.site/1dc1ea9c28ef40519f908c15656882de" target="_blank"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a>
 
 </br></br>
 
