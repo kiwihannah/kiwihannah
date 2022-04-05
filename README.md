@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=ffb3c6&height=130&section=header&text=💃%20I'm%20Hannah!%20🕺&fontSize=70&fontColor=ffffff)
-  
-</br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hannah%20Jung&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JR%20BE%20DEV%20since%202021%2003%20-%20🚀&descAlignY=51&descAlign=62)
+
 
 <h3 align="center">👩‍🔧 Tech Stack 👩‍🔧</h3>
 </br>
