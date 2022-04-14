@@ -1,4 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hannah%20Jung&fontSize=90&animation=fadeIn&fontAlignY=38&desc=JR%20BE%20DEV%20since%202021%2003%20-%20🚀&descAlignY=51&descAlign=62)
+### <p align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hannah ☆</p>
+<br>
+<br>
+<br>
+
+<p align="center"> 
+<img width="418" alt="안녕하살범" src="https://user-images.githubusercontent.com/83942678/163391954-45743d21-668d-4c35-8322-cd4a96bf408f.png">
+</p>
+
+<br>
+<br>
 
 
 <h3 align="center">👩‍🔧 Tech Stack 👩‍🔧</h3>
@@ -25,7 +35,7 @@
 <h3 align="center">🐰 About me 🐰</h3>
 </br>
 <p align="center">
-<a href="https://hannah1009.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a> &nbsp
+  <a href="https://l-0-l.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=기억보단 기록을 하는 개발자"></a> &nbsp
 <a href="https://docs.google.com/document/d/1P7OM3AQY6m0TnAHH5bfgtem4CLIeO6z440rRopVuae8/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a>
 
 </br></br>
