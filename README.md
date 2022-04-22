@@ -1,4 +1,4 @@
-### <p align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hannah ☆</p>
+### <p align="center">Hi ~ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> It's ME! Hannah ☆</p>
 <br>
 <br>
 <br>
@@ -11,7 +11,7 @@
 <br>
 
 
-<h3 align="center">👩‍🔧 Tech Stack 👩‍🔧</h3>
+<h3 align="center">🔧 Tech Stack 🔧</h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a> &nbsp
@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&fontColor=ffffff"/></a> &nbsp
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> &nbsp
 
-</br>
 <p align="center">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/></a> &nbsp
@@ -29,10 +28,22 @@
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a> &nbsp
 
+</br>
+</br>
+</br>
 
-</br></br>
+<h3 align="center">👩🏽‍💻 Now, Interested In 👩🏽‍💻</h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/></a> &nbsp
 
-<h3 align="center">🐰 About me 🐰</h3>
+</br>
+</br>
+</br>
+
+<h3 align="center">🐣 About me 🐣</h3>
 </br>
 <p align="center">
   <a href="https://l-0-l.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=기억보단 기록을 하는 개발자"></a> &nbsp
