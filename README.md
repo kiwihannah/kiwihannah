@@ -36,7 +36,7 @@
 </br>
 <p align="center">
   <a href="https://l-0-l.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=기억보단 기록을 하는 개발자"></a> &nbsp
-<a href="https://docs.google.com/document/d/1P7OM3AQY6m0TnAHH5bfgtem4CLIeO6z440rRopVuae8/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a>
+<a href="https://seen-cheetah-8cf.notion.site/Team-Driven-224c5af97e784e56a1e988031cdddcf0" target="_blank"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a>
 
 </br></br>
 
