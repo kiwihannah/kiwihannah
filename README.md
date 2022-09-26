@@ -46,8 +46,8 @@
 <h3 align="center">🐣 About me 🐣</h3>
 </br>
 <p align="center">
-  <a href="https://l-0-l.tistory.com/"><img src="https://github-readme-tistory-card.vercel.app/api/badge?name=기억보단 기록을 하는 개발자"></a> &nbsp
-<a href="https://seen-cheetah-8cf.notion.site/Team-Driven-224c5af97e784e56a1e988031cdddcf0" target="_blank"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></a>
+<a href="https://seen-cheetah-8cf.notion.site/Team-Driven-224c5af97e784e56a1e988031cdddcf0" target="_blank"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
+</a>
 
 </br></br>
 
